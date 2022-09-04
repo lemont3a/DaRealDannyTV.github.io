@@ -2104,3 +2104,14 @@ body {
     padding: 8px;
     /* --border-color: #000000; */
 }
+
+.CardWrapper-container {
+    overflow: hidden;
+    position: relative;
+    display: block;
+    flex-shrink: 0;
+    background: #0636007d;
+    border-radius: 5px;
+    box-shadow: 2px 20px 0px -5px rgb(0 0 0 / 50%);
+    contain: layout paint;
+}
