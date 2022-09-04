@@ -2115,3 +2115,7 @@ body {
     box-shadow: 2px 20px 0px -5px rgb(0 0 0 / 50%);
     contain: layout paint;
 }
+.CardWrapper-container.CardWrapper-container-desktop.CardWrapper-container-actionable {
+    transition: transform 100ms ease-out;
+    outline: dashed;
+}
