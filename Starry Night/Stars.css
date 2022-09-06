@@ -1273,7 +1273,6 @@ button, input, select, textarea {
 .ContextMenuItem-container {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
     align-content: center;
     align-items: center;
     justify-content: center;
@@ -1284,8 +1283,9 @@ button, input, select, textarea {
     user-select: none;
     font-size: 10px;
     line-height: 16px;
-    color: #ececee;
+    color: #0000ff;
     position: relative;
+    font-family: auto;
 }
 .ServerSubscriptionsSectionAdminHasSetup-earnings {
     background-color: #32343d00;
