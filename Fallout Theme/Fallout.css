@@ -53,11 +53,10 @@ body {
 
 
 :root {
-  --background: #000700 !important;
-  --text-color: #4AEF98 !important;
+  --background: #000000 !important;
+  --text-color: #FF8B00 !important;
   --highlight: var(--text-color) !important;
 }
-
 
 .ChatChannelMessagesList-container {
     flex: 1;
